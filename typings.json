@@ -1,0 +1,4 @@
+{
+  "name": "semver",
+  "main": "semver.d.ts"
+}
